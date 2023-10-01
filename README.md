@@ -1,8 +1,11 @@
 <!-- Zphisher -->
 
-<p align="center">
-  <img src=".https://i.imgur.com/wxJ0cMt.jpeg">
-</p>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'm+Usman+Ser;Multi+Device+Whatsapp+Bot;Coded+By+Usman+Ser" alt="Typing SVG" /></a>
+<p align="center">  
+  <a href="https://i.imgur.com/wxJ0cMt.jpeg">
+    <img alt="secktor docs" height="300" src="https://i.imgur.com/wxJ0cMt.jpeg">
+    <h1 align="center"> U̶S̶M̶A̶N̶-̶S̶E̶R̶ </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
